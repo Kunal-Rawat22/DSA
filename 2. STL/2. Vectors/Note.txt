@@ -1,0 +1,2 @@
+Iterator means pointer to the address of current vector element it is pointing at.
+It points to the memory.
